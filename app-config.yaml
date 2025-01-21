@@ -51,7 +51,7 @@ catalog:
       rules:
         - allow: [Template]
     - type: url
-      target: https://github.com/humanitec-architecture/backstage-catalog-templates/blob/main/podinfo/template.yaml
+      target: https://github.com/humanitec-architecture/backstage-catalog-templates/blob/new-humanitec-app-onboarding/podinfo/template.yaml
       rules:
         - allow: [Template]
     - type: file
