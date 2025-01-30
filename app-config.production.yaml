@@ -25,7 +25,7 @@ catalog:
     - type: url
       target: https://github.com/${GITHUB_ORG_ID}/backstage/blob/main/catalog-info.yaml
     - type: url
-      target: https://github.com/humanitec-architecture/backstage-catalog-templates/blob/main/node-service/template.yaml
+      target: https://github.com/humanitec-architecture/backstage-catalog-templates/blob/new-humanitec-app-onboarding/node-service/template.yaml
       rules:
         - allow: [Template]
     - type: url
